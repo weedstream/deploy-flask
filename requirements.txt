@@ -1,0 +1,5 @@
+flask==2.2.2
+joblib==1.1.0
+ipykernel==6.4.1
+scikit-learn==1.0.2
+WERKZEUG==2.0.2
